@@ -37,4 +37,3 @@ We welcome contributions to DataGuard! To contribute:
    `git push origin feature/YourFeature`
 5. Open a pull request detailing your changes.
 
-Thank you for considering contributing to DataGuard!
