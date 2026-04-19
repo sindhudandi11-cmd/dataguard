@@ -1,0 +1,30 @@
+application_id,applicant_name,issues
+ABR-2024-003,,MISSING applicant name
+ABR-2024-006,Dr. Tom Blake,MISSING email
+ABR-2024-001,Dr. Sarah Chen,DUPLICATE application ID
+ABR-2024-008,Dr. Kevin Wu,"FUNDING EXCEEDS LIMIT ($200,000 > $150,000)"
+ABR-2024-009,Dr. Aisha Bello,MISSING project title
+ABR-2024-013,,MISSING applicant name
+ABR-2024-017,Dr. John Smith,MISSING email
+ABR-2024-020,Dr. Marcus Brown,MISSING project title
+ABR-2024-024,,MISSING applicant name
+ABR-2024-026,Dr. Grace Otieno,"FUNDING EXCEEDS LIMIT ($175,000 > $150,000)"
+ABR-2024-031,Dr. David Osei,MISSING project title
+ABR-2024-036,,MISSING applicant name
+ABR-2024-043,Dr. Olga Petersen,MISSING email
+ABR-2024-046,Dr. Thomas Bergmann,"MISSING project title | FUNDING EXCEEDS LIMIT ($190,000 > $150,000)"
+ABR-2024-048,,MISSING applicant name
+ABR-2024-055,,MISSING applicant name
+ABR-2024-058,Dr. Ricardo Santos,"FUNDING EXCEEDS LIMIT ($165,000 > $150,000)"
+ABR-2024-061,Dr. Svetlana Kozlov,"MISSING project title | FUNDING EXCEEDS LIMIT ($155,000 > $150,000)"
+ABR-2024-063,,MISSING applicant name
+ABR-2024-068,Dr. Fatou Diop,MISSING email
+ABR-2024-071,,MISSING applicant name
+ABR-2024-076,Dr. Lars Eriksson,MISSING project title
+ABR-2024-079,,MISSING applicant name
+ABR-2024-084,Dr. Adaeze Okonkwo,"FUNDING EXCEEDS LIMIT ($210,000 > $150,000)"
+ABR-2024-086,,MISSING applicant name
+ABR-2024-088,Dr. Brigitte Lefebvre,MISSING project title
+ABR-2024-091,Dr. Gustav Lindqvist,"FUNDING EXCEEDS LIMIT ($180,000 > $150,000)"
+ABR-2024-092,,MISSING applicant name
+ABR-2024-097,Dr. Chukwudi Nwosu,MISSING email

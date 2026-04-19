@@ -1,0 +1,73 @@
+application_id,applicant_name,email,department,project_title,funding_requested,start_date,end_date,institution
+ABR-2024-001,Dr. Sarah Chen,sarah.chen@msu.edu,AgBioResearch,Soil Microbiome Analysis for Crop Yield,45000,2024-06-01,2025-05-31,Michigan State University
+ABR-2024-002,Dr. James Okafor,j.okafor@msu.edu,Plant Biology,Drought-Resistant Corn Varieties,78500,2024-07-01,2026-06-30,Michigan State University
+ABR-2024-004,Dr. Raj Patel,raj.patel@msu.edu,AgBioResearch,Precision Agriculture Sensor Networks,120000,2024-08-01,2027-07-31,Michigan State University
+ABR-2024-005,Dr. Maria Lopez,maria.lopez@msu.edu,Animal Science,Livestock Feed Optimization Study,55000,2024-09-01,2025-08-31,Michigan State University
+ABR-2024-007,Dr. Priya Nair,priya.nair@msu.edu,AgBioResearch,Genomic Sequencing of Native Plant Species,67000,2024-06-01,2025-05-31,Michigan State University
+ABR-2024-010,Dr. Carlos Mendez,carlos.mendez@msu.edu,AgBioResearch,Pesticide Reduction via Biological Controls,38000,2024-11-01,2025-10-31,Michigan State University
+ABR-2024-011,Dr. Lisa Park,lisa.park@msu.edu,Soil Science,Carbon Sequestration in Agricultural Soils,72000,2024-06-01,2026-05-31,Michigan State University
+ABR-2024-012,Dr. Ahmed Hassan,ahmed.hassan@msu.edu,Crop Science,Wheat Yield Optimization Under Climate Stress,91000,2024-07-01,2026-06-30,Michigan State University
+ABR-2024-014,Dr. Nina Patel,nina.patel@msu.edu,Food Science,Plant-Based Protein Extraction Methods,63000,2024-09-01,2026-08-31,Michigan State University
+ABR-2024-015,Dr. Robert Kim,robert.kim@msu.edu,AgBioResearch,Smart Irrigation Systems for Row Crops,110000,2024-06-15,2027-06-14,Michigan State University
+ABR-2024-016,Dr. Fatima Ali,fatima.ali@msu.edu,Plant Biology,CRISPR Applications in Soybean Disease Resistance,85000,2024-07-01,2026-06-30,Michigan State University
+ABR-2024-018,Dr. Yuki Tanaka,yuki.tanaka@msu.edu,Soil Science,Microplastic Contamination in Farmland,58000,2024-09-01,2025-08-31,Michigan State University
+ABR-2024-019,Dr. Elena Vasquez,elena.vasquez@msu.edu,AgBioResearch,Drone-Based Crop Monitoring System,134000,2024-10-01,2027-09-30,Michigan State University
+ABR-2024-021,Dr. Soo-Jin Lee,soojin.lee@msu.edu,Food Science,Probiotic Development from Fermented Grains,76000,2024-07-01,2026-06-30,Michigan State University
+ABR-2024-022,Dr. Peter Olsen,peter.olsen@msu.edu,Crop Science,Nitrogen Use Efficiency in Corn Production,92000,2024-08-01,2026-07-31,Michigan State University
+ABR-2024-023,Dr. Amara Diallo,amara.diallo@msu.edu,AgBioResearch,Biodiversity in Agroforestry Systems,61000,2024-09-01,2025-08-31,Michigan State University
+ABR-2024-025,Dr. Ivan Petrov,ivan.petrov@msu.edu,Soil Science,Soil Erosion Prediction Using Machine Learning,88000,2024-06-01,2026-05-31,Michigan State University
+ABR-2024-027,Dr. Wei Zhang,wei.zhang@msu.edu,Food Science,Food Safety Monitoring via IoT Sensors,69000,2024-08-01,2026-07-31,Michigan State University
+ABR-2024-028,Dr. Rachel Green,rachel.green@msu.edu,Crop Science,Herbicide Resistance Management in Soybean,47000,2024-09-01,2025-08-31,Michigan State University
+ABR-2024-029,Dr. Omar Khalil,omar.khalil@msu.edu,Animal Science,Dairy Cow Heat Stress Mitigation Strategies,82000,2024-10-01,2026-09-30,Michigan State University
+ABR-2024-030,Dr. Ingrid Larsen,ingrid.larsen@msu.edu,Plant Biology,Pollinator Habitat Restoration in Farmland,56000,2024-06-01,2025-05-31,Michigan State University
+ABR-2024-032,Dr. Hannah Müller,hannah.muller@msu.edu,Soil Science,Biochar Effects on Soil Carbon Storage,74000,2024-08-01,2026-07-31,Michigan State University
+ABR-2024-033,Dr. Andrés Torres,andres.torres@msu.edu,Crop Science,Maize Yield Gap Analysis in Michigan,43000,2024-09-01,2025-08-31,Michigan State University
+ABR-2024-034,Dr. Mei Lin,mei.lin@msu.edu,Food Science,Antioxidant Properties of Michigan Blueberries,38000,2024-10-01,2025-09-30,Michigan State University
+ABR-2024-035,Dr. Samuel Adeyemi,samuel.adeyemi@msu.edu,AgBioResearch,Integrated Pest Management for Fruit Crops,115000,2024-06-15,2027-06-14,Michigan State University
+ABR-2024-037,Dr. Natasha Ivanova,natasha.ivanova@msu.edu,Plant Biology,Epigenetic Regulation in Drought Stress Response,83000,2024-08-01,2026-07-31,Michigan State University
+ABR-2024-038,Dr. Felix Wagner,felix.wagner@msu.edu,Soil Science,Heavy Metal Remediation in Agricultural Soil,66000,2024-09-01,2026-08-31,Michigan State University
+ABR-2024-039,Dr. Chioma Eze,chioma.eze@msu.edu,AgBioResearch,Cassava Disease Surveillance Using AI,142000,2024-10-01,2027-09-30,Michigan State University
+ABR-2024-040,Dr. Liam Murphy,liam.murphy@msu.edu,Crop Science,Winter Wheat Breeding for Cold Tolerance,77000,2024-06-01,2026-05-31,Michigan State University
+ABR-2024-041,Dr. Sonia Sharma,sonia.sharma@msu.edu,Food Science,Gluten-Free Grain Processing Technologies,51000,2024-07-01,2025-06-30,Michigan State University
+ABR-2024-042,Dr. Kwame Asante,kwame.asante@msu.edu,AgBioResearch,Remote Sensing for Crop Stress Detection,129000,2024-08-01,2027-07-31,Michigan State University
+ABR-2024-044,Dr. Benjamin Cruz,benjamin.cruz@msu.edu,Animal Science,Aquaculture Feed Efficiency Optimization,48000,2024-10-01,2025-09-30,Michigan State University
+ABR-2024-045,Dr. Amina Yusuf,amina.yusuf@msu.edu,Soil Science,Wetland Soil Carbon Dynamics,71000,2024-06-01,2026-05-31,Michigan State University
+ABR-2024-047,Dr. Yolanda Flores,yolanda.flores@msu.edu,Crop Science,Sorghum Adaptation to Saline Soils,86000,2024-08-01,2026-07-31,Michigan State University
+ABR-2024-049,Dr. Hassan Juma,hassan.juma@msu.edu,Plant Biology,Photosynthesis Enhancement via Gene Editing,97000,2024-10-01,2026-09-30,Michigan State University
+ABR-2024-050,Dr. Lena Fischer,lena.fischer@msu.edu,AgBioResearch,Vertical Farming Optimization for Leafy Greens,108000,2024-06-15,2027-06-14,Michigan State University
+ABR-2024-051,Dr. Aaron Mitchell,aaron.mitchell@msu.edu,Soil Science,Phosphorus Cycling in No-Till Systems,54000,2024-07-01,2025-06-30,Michigan State University
+ABR-2024-052,Dr. Zara Ahmed,zara.ahmed@msu.edu,Animal Science,Beef Cattle Methane Emission Reduction,93000,2024-08-01,2026-07-31,Michigan State University
+ABR-2024-053,Dr. Paulo Fernandez,paulo.fernandez@msu.edu,AgBioResearch,Biofuel Production from Agricultural Waste,137000,2024-09-01,2027-08-31,Michigan State University
+ABR-2024-054,Dr. Ingrid Holm,ingrid.holm@msu.edu,Crop Science,Canola Oil Yield Improvement Strategies,68000,2024-10-01,2026-09-30,Michigan State University
+ABR-2024-056,Dr. Emmanuel Obi,emmanuel.obi@msu.edu,Plant Biology,Root Architecture Optimization in Legumes,79000,2024-07-01,2026-06-30,Michigan State University
+ABR-2024-057,Dr. Hana Novak,hana.novak@msu.edu,Soil Science,Soil Microbial Diversity Under Organic Farming,62000,2024-08-01,2025-07-31,Michigan State University
+ABR-2024-059,Dr. Mei Yamamoto,mei.yamamoto@msu.edu,Crop Science,Rice Paddy Methane Reduction Techniques,84000,2024-10-01,2026-09-30,Michigan State University
+ABR-2024-060,Dr. Abebe Girma,abebe.girma@msu.edu,Animal Science,Goat Milk Nutritional Profile Enhancement,39000,2024-06-15,2025-06-14,Michigan State University
+ABR-2024-062,Dr. Patrick Duffy,patrick.duffy@msu.edu,Plant Biology,Seed Dormancy Mechanisms in Wild Grasses,57000,2024-08-01,2025-07-31,Michigan State University
+ABR-2024-064,Dr. Nadia Hussain,nadia.hussain@msu.edu,Soil Science,Salinity Tolerance in Irrigated Croplands,88000,2024-10-01,2026-09-30,Michigan State University
+ABR-2024-065,Dr. Oluwaseun Adebayo,oluwaseun.adebayo@msu.edu,AgBioResearch,AI-Powered Weed Detection System,118000,2024-06-01,2027-05-31,Michigan State University
+ABR-2024-066,Dr. Kristin Berg,kristin.berg@msu.edu,Crop Science,Sunflower Hybrid Development for Dry Regions,76000,2024-07-01,2026-06-30,Michigan State University
+ABR-2024-067,Dr. Tunde Adewale,tunde.adewale@msu.edu,Animal Science,Sheep Wool Quality Genetic Improvement,44000,2024-08-01,2025-07-31,Michigan State University
+ABR-2024-069,Dr. Hiroshi Tanaka,hiroshi.tanaka@msu.edu,Plant Biology,Nitrogen Fixation Enhancement in Soybeans,96000,2024-10-01,2026-09-30,Michigan State University
+ABR-2024-070,Dr. Miriam Goldstein,miriam.goldstein@msu.edu,AgBioResearch,Precision Livestock Monitoring with IoT,143000,2024-06-15,2027-06-14,Michigan State University
+ABR-2024-072,Dr. Kofi Mensah,kofi.mensah@msu.edu,Crop Science,Cassava Starch Quality for Industrial Use,67000,2024-08-01,2026-07-31,Michigan State University
+ABR-2024-073,Dr. Elena Romanova,elena.romanova@msu.edu,AgBioResearch,Greenhouse Gas Monitoring in Dairy Farms,102000,2024-09-01,2026-08-31,Michigan State University
+ABR-2024-074,Dr. James Whitfield,james.whitfield@msu.edu,Animal Science,Equine Gut Health and Performance,58000,2024-10-01,2025-09-30,Michigan State University
+ABR-2024-075,Dr. Ama Owusu,ama.owusu@msu.edu,Plant Biology,Cocoa Tree Disease Resistance Breeding,81000,2024-06-01,2026-05-31,Michigan State University
+ABR-2024-077,Dr. Damilola Adeyinka,damilola.adeyinka@msu.edu,AgBioResearch,Solar-Powered Cold Storage for Farm Produce,125000,2024-08-01,2027-07-31,Michigan State University
+ABR-2024-078,Dr. Yuki Nakamura,yuki.nakamura@msu.edu,Soil Science,Compost Quality Standards for Urban Farming,53000,2024-09-01,2025-08-31,Michigan State University
+ABR-2024-080,Dr. Amelia Thompson,amelia.thompson@msu.edu,Animal Science,Poultry Welfare and Productivity Metrics,77000,2024-06-15,2026-06-14,Michigan State University
+ABR-2024-081,Dr. Ibrahim Musa,ibrahim.musa@msu.edu,AgBioResearch,Water Quality Monitoring in Irrigation Canals,99000,2024-07-01,2026-06-30,Michigan State University
+ABR-2024-082,Dr. Claudia Rivera,claudia.rivera@msu.edu,Plant Biology,Shade Tolerance in Coffee Agroforestry,70000,2024-08-01,2026-07-31,Michigan State University
+ABR-2024-083,Dr. Nikolai Sokolov,nikolai.sokolov@msu.edu,Food Science,Omega-3 Enrichment in Farmed Fish,84000,2024-09-01,2026-08-31,Michigan State University
+ABR-2024-085,Dr. Martin Hoffmann,martin.hoffmann@msu.edu,Crop Science,Oat Breeding for Beta-Glucan Content,58000,2024-06-01,2025-05-31,Michigan State University
+ABR-2024-087,Dr. Taiwo Oladele,taiwo.oladele@msu.edu,Animal Science,Insect Protein as Sustainable Livestock Feed,93000,2024-08-01,2026-07-31,Michigan State University
+ABR-2024-089,Dr. Ravi Shankar,ravi.shankar@msu.edu,Plant Biology,Terpene Biosynthesis in Medicinal Herbs,72000,2024-10-01,2026-09-30,Michigan State University
+ABR-2024-090,Dr. Nkechi Obi,nkechi.obi@msu.edu,Food Science,Traditional Fermented Food Safety Standards,55000,2024-06-15,2025-06-14,Michigan State University
+ABR-2024-093,Dr. Blessing Eze,blessing.eze@msu.edu,Soil Science,Biofilm Formation on Agricultural Equipment,59000,2024-09-01,2025-08-31,Michigan State University
+ABR-2024-094,Dr. Tomás García,tomas.garcia@msu.edu,Animal Science,Honeybee Colony Health Monitoring System,87000,2024-10-01,2026-09-30,Michigan State University
+ABR-2024-095,Dr. Nneka Okafor,nneka.okafor@msu.edu,AgBioResearch,Crop Insurance Risk Modeling with Big Data,116000,2024-06-01,2027-05-31,Michigan State University
+ABR-2024-096,Dr. Sigrid Andersen,sigrid.andersen@msu.edu,Plant Biology,Pollen Viability Under Heat Stress Conditions,64000,2024-07-01,2026-06-30,Michigan State University
+ABR-2024-098,Dr. Akira Watanabe,akira.watanabe@msu.edu,AgBioResearch,Mushroom Cultivation on Agricultural Byproducts,69000,2024-09-01,2025-08-31,Michigan State University
+ABR-2024-099,Dr. Funmilayo Adetoye,funmilayo.adetoye@msu.edu,Crop Science,Soybean Nodulation Efficiency Research,91000,2024-10-01,2026-09-30,Michigan State University
+ABR-2024-100,Dr. Megan O'Brien,megan.obrien@msu.edu,Animal Science,Regenerative Grazing Impact on Biodiversity,73000,2024-06-15,2026-06-14,Michigan State University
