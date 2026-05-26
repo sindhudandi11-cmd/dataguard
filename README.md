@@ -23,7 +23,7 @@ DataGuard is Part 1 of an integrated 3-system research data pipeline:
 | System | Role | Repo |
 |---|---|---|
 | **DataGuard** | Validates and cleans bulk application data | This repo |
-| **GrantViz** | Power BI dashboard built on DataGuard's clean output | [View Dashboard](https://app.powerbi.com/links/_Klk_n52xa?ctid=ea873390-8c1c-4231-a799-6b5a0235b2e6&pbi_source=linkShare&bookmarkGuid=1e74c21b-e973-4448-ba65-81103b101826) |
+| **GrantViz** | Power BI dashboard fed by manually importing DataGuard's clean output CSV | [View Dashboard](https://app.powerbi.com/links/_Klk_n52xa?ctid=ea873390-8c1c-4231-a799-6b5a0235b2e6&pbi_source=linkShare&bookmarkGuid=1e74c21b-e973-4448-ba65-81103b101826) |
 | **AppScan AI** | AI review system for real-time incoming submissions | [github.com/sindhudandi11-cmd/appscan](https://github.com/sindhudandi11-cmd/appscan) |
 
 ---
@@ -70,7 +70,7 @@ A sample dataset is included in `sample_data/applications_sample.csv` to test th
 
 | File | Description |
 |---|---|
-| `clean_applications.csv` | Validated records — feeds directly into the GrantViz Power BI dashboard |
+| `clean_applications.csv` | Validated records — manually imported into the GrantViz Power BI dashboard for visual reporting |
 | `error_report.csv` | Rejected applications with exact reason codes for coordinator review |
 | `dataguard.db` | SQLite database of approved records only |
 | `dataguard.log` | Full audit log with timestamps at INFO / WARNING / ERROR levels |
