@@ -23,7 +23,7 @@ DataGuard is Part 1 of an integrated 3-system research data pipeline:
 | System | Role | Repo |
 |---|---|---|
 | **DataGuard** | Validates and cleans bulk application data | This repo |
-| **GrantViz** | Power BI dashboard built on DataGuard's clean output | [github.com/sindhudandi11-cmd/grantviz](https://github.com/sindhudandi11-cmd/grantviz) |
+| **GrantViz** | Power BI dashboard built on DataGuard's clean output | [View Dashboard](https://app.powerbi.com/links/_Klk_n52xa?ctid=ea873390-8c1c-4231-a799-6b5a0235b2e6&pbi_source=linkShare&bookmarkGuid=1e74c21b-e973-4448-ba65-81103b101826) |
 | **AppScan AI** | AI review system for real-time incoming submissions | [github.com/sindhudandi11-cmd/appscan](https://github.com/sindhudandi11-cmd/appscan) |
 
 ---
